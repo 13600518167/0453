@@ -1,0 +1,111 @@
+{
+    "commands": [
+        {
+            "command_play_time": "1256",
+            "command_type": 0,
+            "point": "(1731,992)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "1263",
+            "command_type": 0,
+            "point": "(1731,992)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "1347",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "2856",
+            "command_type": 0,
+            "point": "(1669,817)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "2949",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "8031",
+            "command_type": 4
+        },
+        {
+            "command_play_time": "8042",
+            "command_type": 4
+        },
+        {
+            "command_play_time": "8051",
+            "command_type": 4
+        },
+        {
+            "command_play_time": "8060",
+            "command_type": 4
+        },
+        {
+            "command_play_time": "86720",
+            "command_type": 4
+        },
+        {
+            "command_play_time": "86729",
+            "command_type": 4
+        },
+        {
+            "command_play_time": "86740",
+            "command_type": 4
+        },
+        {
+            "command_play_time": "86748",
+            "command_type": 4
+        },
+        {
+            "command_play_time": "179111",
+            "command_type": 0,
+            "point": "(1459,586)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "179201",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "180688",
+            "command_type": 4
+        },
+        {
+            "command_play_time": "180697",
+            "command_type": 4
+        },
+        {
+            "command_play_time": "180705",
+            "command_type": 4
+        },
+        {
+            "command_play_time": "180714",
+            "command_type": 4
+        },
+        {
+            "command_play_time": "184771",
+            "command_type": 10,
+            "delay": 0
+        }
+    ],
+    "create_at": "1628151726119",
+    "identity": "1628151726119",
+    "priority": 0,
+    "setting": {
+        "anti_detect": false,
+        "is_restart": false,
+        "name": "操作录制3",
+        "play_count": 4,
+        "play_interval": 20,
+        "play_on_start": false,
+        "play_speed": 1,
+        "play_time": 0,
+        "play_type": "count",
+        "restart_play_time": 60
+    }
+}
